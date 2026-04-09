@@ -2,7 +2,7 @@
 '''
     génération et affichage d'un triangle binaire
 '''
-def generer_triangle(ligne_depart):
+def generer_triangle(ligne_depart): 
     ''' 
     renvoie un triangle binaire complet à partir de la ligne de départ passée en paramètre
     : param ligne_depart(list)
